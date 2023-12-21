@@ -1,15 +1,11 @@
 # NAME: proxy-fix  
 # COMMENT: 代理修正规则  使用说明 behavior: "classical"
-# UPDATED: 2023-12-14 16:55:48
-# DOMAIN: 1
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 21
-# IP-CIDR: 4
-# IP-CIDR6: 4
-# PROCESS-NAME: 4
-# TOTAL: 35
+# UPDATED: 2023-12-21 10:12:48
+
 payload:
   - DOMAIN,api.swiftgram.app
+  - DOMAIN,docker.xiaoya.pro
+  - DOMAIN-SUFFIX,nn.ci
   - DOMAIN-SUFFIX,comments.app
   - DOMAIN-SUFFIX,contest.com
   - DOMAIN-SUFFIX,graph.org
@@ -32,6 +28,13 @@ payload:
   - DOMAIN-SUFFIX,tx.me
   - DOMAIN-SUFFIX,usercontent.dev
   - DOMAIN-KEYWORD,nicegram
+  - DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
+  - DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
+  - DOMAIN-SUFFIX,hub5pn.wap.sandai.net
+  - DOMAIN-SUFFIX,hub5pnc.sandai.net
+  - DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
+  - DOMAIN-SUFFIX,hubciddata.sandai.net
+  - DOMAIN-KEYWORD,mypikpak  
   - IP-CIDR,109.239.140.0/24
   - IP-CIDR,149.154.160.0/20
   - IP-CIDR,5.28.192.0/18
@@ -40,7 +43,3 @@ payload:
   - IP-CIDR6,2001:b28:f23c::/47
   - IP-CIDR6,2001:b28:f23f::/48
   - IP-CIDR6,2a0a:f280::/32
-  - PROCESS-NAME,Telegram.exe
-  - PROCESS-NAME,nekox.messenger
-  - PROCESS-NAME,org.telegram.messenger
-  - PROCESS-NAME,telegram-desktop
