@@ -6,6 +6,7 @@ payload:
   - DOMAIN,api.swiftgram.app
   - DOMAIN,docker.xiaoya.pro
   - DOMAIN-SUFFIX,nn.ci
+  - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,comments.app
   - DOMAIN-SUFFIX,contest.com
   - DOMAIN-SUFFIX,graph.org
