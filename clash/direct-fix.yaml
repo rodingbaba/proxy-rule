@@ -1,13 +1,6 @@
 # NAME: direct-fix
 # COMMENT: 直连修正规则  使用说明 behavior: "classical"
-# UPDATED: 2023-12-14 16:55:48
-# DOMAIN: 1
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 21
-# IP-CIDR: 4
-# IP-CIDR6: 4
-# PROCESS-NAME: 4
-# TOTAL: 35
+# UPDATED: 2023-12-21 10:12:48
 payload:        
    - DOMAIN-SUFFIX,acl4.ssr
 #   - DOMAIN,api.swiftgram.app
