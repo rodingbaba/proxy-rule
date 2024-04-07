@@ -1,3 +1,36 @@
-DOMAIN-SUFFIX , byteimg.com , DIRECT
-DOMAIN-SUFFIX , p.s.360.cn , DIRECT
-DOMAIN , click.simba.taobao.com , DIRECT
+domain-suffix , byteimg.com , direct
+domain-suffix , p.s.360.cn , direct
+domain , click.simba.taobao.com , direct
+host-suffix, bing.com, direct
+host-suffix, dmit.io, proxy
+host-keyword, bajie, proxy
+host, xiaoya.162899.xyz, proxy
+host, webdav.162899.xyz, proxy
+host, reader.162899.xyz, proxy
+host, dsxys.pro, proxy
+host, dsxfk.com, proxy
+host, clmclm.com, proxy
+host, www.jkpan.cc, proxy
+host-suffix, notion.site, proxy
+host-keyword, jable.tv, proxy
+host-suffix, netflav.com, proxy
+host-suffix, 18comic.org, proxy
+host-suffix, openai.com, proxy
+host, zxcs.me, proxy
+host, mojie.online, proxy
+host, speed.cloudflare.com, proxy
+host, digitalvirt.com, proxy
+host, hostloc.com, proxy
+host, duangks.com, proxy
+host, bbs.hostevaluate.com, proxy
+host, ytbdl.toolsapi.workers.dev, proxy
+host, api2.tophub.app, proxy
+host, ocd0522.tk, proxy
+host, ddgksf2013.notion.site, proxy
+host, gitlab.com, proxy
+host, api.fast.com, proxy
+host-suffix, bulianglin.com, proxy
+host-suffix, duangvps.com, proxy
+host-suffix, avgle.com, proxy
+host-suffix, t66y.com, proxy
+host-suffix, missav.com, proxy
