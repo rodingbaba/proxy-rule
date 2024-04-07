@@ -1,6 +1,18 @@
-domain-suffix , byteimg.com , direct
-domain-suffix , p.s.360.cn , direct
-domain , click.simba.taobao.com , direct
+host, partwithner.com, reject
+host, www.googletagmanager.com, reject
+host-suffix, ocsp.godaddy.com, reject
+host, r.trackwilltrk.com, reject
+host, creative.myavlive.com, reject
+host, go.myavlive.com, reject
+HOST, go.rmhfrtnd.com, REJECT
+HOST, go.spankbanglive.com, REJECT
+HOST, go.xhamsterlive.com, REJECT
+HOST, go.xliirdr.com, REJECT
+HOST, go.xlivrdr.com, REJECT
+HOST, go.xxxjmp.com, REJECT
+HOST, go.xxxviijmp.com, REJECT
+HOST, go.xxxvjmp.com, REJECT
+
 host-suffix, bing.com, direct
 host-suffix, dmit.io, proxy
 host-keyword, bajie, proxy
