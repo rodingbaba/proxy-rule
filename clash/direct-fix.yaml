@@ -3,6 +3,7 @@
 # UPDATED: 2023-12-21 10:12:48
 payload:        
    - DOMAIN-SUFFIX,acl4.ssr
+   - DOMAIN-SUFFIX,argotunnel.com
 #   - DOMAIN,api.swiftgram.app
 #   - DOMAIN-SUFFIX,acl4.ssr
 #   - DOMAIN-SUFFIX,contest.com
