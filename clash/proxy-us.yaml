@@ -1,0 +1,9 @@
+# NAME: proxy-us
+# COMMENT: 代理修正规则  使用说明 behavior: "classical"
+# UPDATED: 2024-12-21 10:12:48
+
+payload:
+  - DOMAIN-SUFFIX,imgur.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  #- DOMAIN-KEYWORD,mypikpak
+  #- DOMAIN,iptv.hiper25.com  
