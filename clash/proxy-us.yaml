@@ -5,6 +5,7 @@
 payload:
   - DOMAIN-SUFFIX,imgur.com
   - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,openai.com  
   - DOMAIN,gemini.google.com
   #- DOMAIN-KEYWORD,mypikpak
   #- DOMAIN,iptv.hiper25.com  
