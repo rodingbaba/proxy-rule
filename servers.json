@@ -1,0 +1,28 @@
+{
+  "servers": [
+    {
+      "name": "Home NAS (Anisette)",
+      "address": "http://192.168.6.107:6969"
+    },
+    {
+      "name": "SideStore (New)",
+      "address": "https://new.ani.sidestore.io"
+    },
+    {
+      "name": "jkcoxson",
+      "address": "https://mac-ani.jkcoxson.com"
+    },
+    {
+      "name": "nythepegasus",
+      "address": "https://ani.npeg.us"
+    },
+    {
+      "name": "Macley",
+      "address": "http://5.249.163.88:6969"
+    },
+    {
+      "name": "SideStore",
+      "address": "https://ani.sidestore.io"
+    }
+  ]
+}
