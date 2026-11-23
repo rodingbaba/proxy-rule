@@ -8,8 +8,8 @@
     {
       "name": "SideStore (New)",
       "address": "https://new.ani.sidestore.io",
-      "kind": 0
-    },    
+      "kind": 1
+    },
     {
       "name": "SideStore",
       "address": "https://ani.sidestore.io",
