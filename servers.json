@@ -9,20 +9,20 @@
       "address": "https://new.ani.sidestore.io"
     },
     {
-      "name": "jkcoxson",
-      "address": "https://mac-ani.jkcoxson.com"
-    },
-    {
-      "name": "nythepegasus",
-      "address": "https://ani.npeg.us"
-    },
-    {
-      "name": "Macley",
-      "address": "http://5.249.163.88:6969"
-    },
-    {
       "name": "SideStore",
-      "address": "https://ani.sidestore.io"
+      "address": "https://ani.sidestore.io",
+      "kind": 0
+    },
+    {
+      "name": "SideStore (.app)",
+      "address": "https://ani.sidestore.app",
+      "kind": 0
+    },
+    {
+      "name": "SideStore (.zip)",
+      "address": "https://ani.sidestore.zip",
+      "kind": 0
+    
     }
   ]
 }
