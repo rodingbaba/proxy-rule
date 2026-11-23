@@ -6,6 +6,11 @@
       "kind": 1
     },
     {
+      "name": "SideStore (New)",
+      "address": "https://new.ani.sidestore.io",
+      "kind": 1
+    },    
+    {
       "name": "SideStore",
       "address": "https://ani.sidestore.io",
       "kind": 0
